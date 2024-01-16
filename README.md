@@ -2,7 +2,7 @@
 
 HackerRank Python (Basic) Certification Test : Question and Answers :
 
-Question 2: Python — Maximize sum of N X N upper left sub-matrix from given 2N X 2N matrix
+Question 1: Python — Maximize sum of N X N upper left sub-matrix from given 2N X 2N matrix
 
 Given a 2N x 2N matrix of integers. You are allowed to reverse any row or column any number of times and in any order. The task is to calculate the maximum sum of the upper-left N X N submatrix i.e the sum of elements of the submatrix from (0, 0) to (N – 1, N – 1).
 
